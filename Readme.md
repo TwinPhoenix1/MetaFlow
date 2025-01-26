@@ -7,7 +7,9 @@ Before I let R1 summarize everything in corporate-speak, here's the human perspe
 
 For now, January 2025, reasoning models have their quirks. o1 is stubborn and refuses to admit technical mistakes. Claude Sonnet (not CoT, I know) is too agreeable and ready to change its mind at a moment's notice.
 
-This library tries to find a "middle ground" by going deeper into what makes a conversation useful. It will prompt your LLMs to identify your unconscious preferences... and gently try and expand your comfort zone in each of those dimensions. I have a medium blog post in the writing to explain that further - I will replace this with a proper link when that's done.
+This library tries to find a "middle ground" by going deeper into what makes a conversation useful. 
+
+It will prompt your LLMs to identify your unconscious preferences... and gently try and expand your comfort zone in each of those dimensions. I have a medium blog post in the writing to explain that further - I will replace this with a proper link when that's done.
 
 In the meantime, enjoy the readme, courtesy of DeepSeek R1.
 
