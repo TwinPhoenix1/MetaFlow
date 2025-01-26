@@ -9,9 +9,9 @@ For now, January 2025, reasoning models have their quirks. o1 is stubborn and re
 
 This library tries to find a "middle ground" by going deeper into what makes a conversation useful. 
 
-It will prompt your LLMs to identify your unconscious preferences... and gently try and expand your comfort zone in each of those dimensions. I have a medium blog post in the writing to explain that further - I will replace this with a proper link when that's done.
+It will prompt your LLMs to identify your unconscious preferences - and gently try and expand your comfort zone in each of those dimensions. I have a medium blog post in the writing to explain that further - I will replace this with a proper link when that's done.
 
-In the meantime, enjoy the readme, courtesy of DeepSeek R1.
+In the meantime, enjoy the readme - courtesy of DeepSeek R1.
 
 ## Overview  
 Tired of LLM chatbots that are either annoyingly agreeable - or stupidly stubborn?
