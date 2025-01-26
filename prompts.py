@@ -7,7 +7,6 @@ Based on these cues, identify the dominant motivation direction. If it's unclear
 
 Dominant Motivation Direction:"""
 
-
 external_internal = """Analyze the following text to determine the user's primary reference style for validation and decision-making: internal or external.
 
 Text: [Insert text to be analyzed here]
