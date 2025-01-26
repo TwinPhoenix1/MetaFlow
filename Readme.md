@@ -2,7 +2,7 @@
 
 **Enhance LLM interactions with unconscious preference detection and adaptive communication strategies**  
 
-## The Bottom Line (yes, right at the top)
+## The Bottom Line (Yes, I Get the Irony :) )
 Before I let R1 summarize everything in corporate-speak, here's the human perspective. 
 
 For now, January 2025, reasoning models have their quirks. o1 is stubborn and refuses to admit technical mistakes. Claude Sonnet (not CoT, I know) is too agreeable and ready to change its mind at a moment's notice.
