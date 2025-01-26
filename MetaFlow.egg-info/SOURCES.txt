@@ -1,5 +1,0 @@
-setup.py
-MetaFlow.egg-info/PKG-INFO
-MetaFlow.egg-info/SOURCES.txt
-MetaFlow.egg-info/dependency_links.txt
-MetaFlow.egg-info/top_level.txt
