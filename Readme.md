@@ -1,6 +1,17 @@
-# MetaFlow: Adaptive LLM Communication Through NLP Meta-Program Analysis  
+# MetaFlow: Attempt at Using LLMs for Personal Growth in Everyday Context  
 
 **Enhance LLM interactions with unconscious preference detection and adaptive communication strategies**  
+
+## Straight to the Point
+Before I let R1 summarize everything in corporate-speak, here's the human perspective. 
+
+For now, January 2025, reasoning models have their quirks. o1 is stubborn and refuses to admit technical mistakes. Claude Sonnet (not CoT, I know) is too agreeable and ready to change its mind at a moment's notice.
+
+This library tries to find a "middle ground" by going deeper into what makes a conversation useful. 
+
+It will prompt your LLMs to identify your unconscious preferences - and gently try and expand your comfort zone in each of those dimensions. I have a medium blog post in the writing to explain that further - I will replace this with a proper link when that's done.
+
+In the meantime, enjoy the readme - courtesy of DeepSeek R1.
 
 ## Overview  
 Tired of LLM chatbots that are either annoyingly agreeable - or stupidly stubborn?
