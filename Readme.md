@@ -1,4 +1,4 @@
-# MetaFlow: Attempt at Using LLMs for Personal Growth in Everyday Context  
+# MetaFlow: Using LLMs for Generalized Personal Growth in Everyday Context  
 
 **Enhance LLM interactions with unconscious preference detection and adaptive communication strategies**  
 
