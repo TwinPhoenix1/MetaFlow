@@ -1,5 +1,28 @@
 from prompts import *
 import time
+from openai import OpenAI
+import os
+
+def get_llm_response(prompt: str) -> str:
+    api_key = os.getenv("OPENROUTER_API_KEY")
+    if not api_key:
+        raise ValueError("OPENROUTER_API_KEY environment variable not set")
+
+    client = OpenAI(
+        base_url="https://openrouter.ai/api/v1",
+        api_key=api_key,
+        default_headers={
+            "HTTP-Referer": "https://github.com/your-project",  # Replace with your project
+            "X-Title": "Your Application Name"  # Replace with your app name
+        }
+    )
+
+    response = client.chat.completions.create(
+        model="google/gemini-flash-1.5",
+        messages=[{"role": "user", "content": prompt}]
+    )
+
+    return response.choices[0].message.content
 
 def generate_augmentation(prompt, get_feedback_func,
                           max_retries, initial_delay, backoff_factor,
